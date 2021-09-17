@@ -1,3 +1,6 @@
+Projeto gerenciador de salas de reuniões com Java e Angular, desenvolvido no curso Santander Bootcamp Fullstack Developer na Digital Innovation One.
+A API (Back End) está no repositório https://github.com/JuliMiguel/DIO-API-Java-Sala-de-Reuniao.
+
 # SalaReuniao
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
